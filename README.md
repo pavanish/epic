@@ -1,4 +1,4 @@
-## This repository serves the resources to supplement the epicimmuneatlas study published in Nature Biotechnology
+## The repository contains supplementary data for the epicimmuneatlas study published in Nature Biotechnology
 [***The Extended Polydimensional Immunome Characterization (EPIC) web-based reference and discovery tool for cytometry data***](https://www.nature.com/articles/s41587-020-0532-1)
 
 #### To Cite this article:
